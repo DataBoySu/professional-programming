@@ -1,3 +1,9 @@
+<!--START_SECTION:navbar-->
+<div align="center">
+  <a href="README.md">🇺🇸 English</a> | <a href="locales/README.zh.md">🇨🇳 中文</a>
+</div>
+<!--END_SECTION:navbar-->
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
